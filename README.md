@@ -1,1 +1,2 @@
-# Netflix appetency\nKaggle Competition
+# Netflix appetency
+Kaggle Competition
