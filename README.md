@@ -7,7 +7,7 @@
 Link : https://www.kaggle.com/c/netflix-appetency
 
 
-#### Goal : Identifu consumers willing to subscribe to NEtflix according to their appetite
+#### Goal : Identify consumers willing to subscribe to NEtflix according to their appetite
     
 #### Evaluation Mettic: AUC
 
