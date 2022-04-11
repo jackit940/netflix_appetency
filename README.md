@@ -1,15 +1,15 @@
-### Kaggle competution
+# Kaggle competution
 
-## Netflix appetency
+# Netflix appetency
 
 <img src='https://play-lh.googleusercontent.com/0rgPYj0GwZ6txpYZrzoMdhwzqg7vY6C9B-Ol7jlaz-Ox2rgpD4Tr82ZgDqkirrEohbGm'>
 
-# Link : https://www.kaggle.com/c/netflix-appetency
+### Link : https://www.kaggle.com/c/netflix-appetency
 
 
-# Goal : Identifu consumers willing to subscribe to NEtflix according to their appetite
+### Goal : Identifu consumers willing to subscribe to NEtflix according to their appetite
     
-# Evaluation : AUC
+### Evaluation : AUC
 
 <h2>Metric:</h2>
 
